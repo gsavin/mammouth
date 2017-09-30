@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Mammouth</string>
     <string name="title_activity_main">MainActivity</string>
+    <string name="title_select_server">Select a server</string>
 </resources>
